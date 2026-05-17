@@ -18,21 +18,19 @@
   <br>
 </p>
 
-## Demo
+---
 
-https://github.com/Nafisa1117/Task-Management-Application/assets/103953608/75da6e3e-777f-4d61-85b7-c85a79d9428f
-
-
-
-----------
 ## Introduction
+
 - Task management Application is a Web project.
 - Developed on Spring Boot(backend) with Angular(front-end) frameworks and MySql database.
 - “User” can delete, edit, add and check the completed tasks.
 - This web application is made secure and robust.
 
--------------
-## Tech Stacks 
+---
+
+## Tech Stacks
+
 - Angular
 - SpringBoot
 - Typescript
@@ -42,7 +40,8 @@ https://github.com/Nafisa1117/Task-Management-Application/assets/103953608/75da6
 - Rest API
 - HTML/CSS
 
-------------------
+---
+
 ## Development Setup
 
 ### Prerequisites
@@ -70,8 +69,8 @@ cd [PROJECT NAME]
 ng serve
 ```
 
-
 ### Setting up a Backend project
+
 For building and running the application you need:
 
 - [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
@@ -87,13 +86,4 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 mvn spring-boot:run
 ```
 
-
--------------------------------------
-
-
-
-
-
-
-  
-
+---

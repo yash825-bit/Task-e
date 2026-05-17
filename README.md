@@ -13,11 +13,6 @@
   <br>
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/13OzDL8m4RI8xlfr5_aqNJZlRhWy7u_vL/view?usp=sharing)https://drive.google.com/file/d/13OzDL8m4RI8xlfr5_aqNJZlRhWy7u_vL/view?usp=sharing"><strong>Live</strong></a>
-  <br>
-</p>
-
 ---
 
 ## Introduction
